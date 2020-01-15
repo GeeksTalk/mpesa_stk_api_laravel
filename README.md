@@ -3,6 +3,7 @@
 ## About This Project
 
 This is a simple Mpesa Lipa Online STK push API implementation
+Blog on [GeekTalkThursday](https://geekstalkthursday.co.ke/post/@manuelgeek/mpesa-stk-api-implementation-laravel-wC5fF1GCq9UA2Z30E3Ii)
 
 
 ## Configuring
