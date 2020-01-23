@@ -3,13 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="5b7d0957-322a-4501-8e93-1a2d506de0e8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/logging.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/logging.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
@@ -127,8 +128,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../droidconKe_events" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../assaydon" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -165,7 +167,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579102584269</updated>
-      <workItem from="1579102587840" duration="7607000" />
+      <workItem from="1579102587840" duration="8591000" />
+      <workItem from="1579774650536" duration="905000" />
     </task>
     <servers />
   </component>
@@ -181,10 +184,10 @@
       <screen x="0" y="25" width="1366" height="743" />
     </state>
     <state x="481" y="211" width="393" height="366" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.25.1366.743@0.25.1366.743" timestamp="1579111806900" />
-    <state x="519" y="211" width="318" height="366" key="FileChooserDialogImpl" timestamp="1579104218985">
+    <state x="519" y="211" width="318" height="366" key="FileChooserDialogImpl" timestamp="1579116024612">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state x="519" y="211" width="318" height="366" key="FileChooserDialogImpl/0.25.1366.743@0.25.1366.743" timestamp="1579104218985" />
+    <state x="519" y="211" width="318" height="366" key="FileChooserDialogImpl/0.25.1366.743@0.25.1366.743" timestamp="1579116024612" />
     <state x="305" y="80" width="745" height="629" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579111480165">
       <screen x="0" y="25" width="1366" height="743" />
     </state>

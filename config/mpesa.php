@@ -6,10 +6,10 @@ return [
     | Default Account
     |--------------------------------------------------------------------------
     |
-    | This is the default account to be used when none is specified.
+    | This is the default account to be used when none is specified. either production, or staging
     */
 
-    'default' => 'staging',
+    'default' => 'production',
 
     /*
     |--------------------------------------------------------------------------
