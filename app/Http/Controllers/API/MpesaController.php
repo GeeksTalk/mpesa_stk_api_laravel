@@ -3,11 +3,11 @@
 namespace App\Http\Controllers\API;
 
 use App\Http\Controllers\Controller;
-use Faker\Factory;
 use Illuminate\Http\Request;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Validator;
+use Illuminate\Support\Str;
 use SmoDav\Mpesa\Laravel\Facades\STK;
 
 class MpesaController extends Controller
@@ -46,8 +46,8 @@ class MpesaController extends Controller
 
     private function random_number_string($length)
     {
-        $faker = Factory::create();
-        return $faker->randomNumber($length);
+        $faker = Str::random($length);
+        return $faker;
     }
 
     private function handleSTKrequestResp($mpesa_response)
